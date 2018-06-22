@@ -1,30 +1,4 @@
-# If you want a twitter feed on your dashboard for a specific twitter handle just let me know by clicking [here](http://www.bbc.co.uk).
+# More dashboard twitter feeds are available [here](https://marketplace.visualstudio.com/search?term=trevellick&target=VSTS&category=All%20categories&sortBy=Relevance)
 
-# I can usually create a new dashboard widget within a week, sometimes much sooner - and best of all it's **totally** free. 
+# Want a twitter feed that doesn't exist ? Let me know by raising an issue [here](https://github.com/GregTrevellick/VsixTwitterWidget/issues).
 
-# Click [here](https://marketplace.visualstudio.com/search?term=trevellick&target=VSTS&category=All%20categories&sortBy=Relevance) to see other twitter feed widgets.
-
-# .
-# .
-# .
-# .
-# .
-# .
-# .
-# .
-# .
-# .
-# .
-# .
-# .
-# .
-# .
-# .
-# .
-# .
-# .
-# .
-
-## Credits
-
-[Sam Hocevar](http://www.wtfpl.net/)
