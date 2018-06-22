@@ -2,13 +2,28 @@
 
 # I can usually create a new dashboard widget within a week, sometimes much sooner - and best of all it's **totally** free. 
 
-# Click [here](https://marketplace.visualstudio.com/search?term=trevellick&target=VSTS&category=All%20categories&sortBy=Relevance) to see other twiiter feed widgets.
+# Click [here](https://marketplace.visualstudio.com/search?term=trevellick&target=VSTS&category=All%20categories&sortBy=Relevance) to see other twitter feed widgets.
 
-#
-#
-#
-#
-#
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
+# .
 
 ## Credits
 
