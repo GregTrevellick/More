@@ -4,7 +4,12 @@
 
 # Click [here](https://marketplace.visualstudio.com/search?term=trevellick&target=VSTS&category=All%20categories&sortBy=Relevance) to see other twiiter feed widgets.
 
+#
+#
+#
+#
+#
 
-##Credits
+## Credits
 
 [Sam Hocevar](http://www.wtfpl.net/)
