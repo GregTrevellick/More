@@ -12,7 +12,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e7801c84e3d645859e668f1b6bd7af05)](https://www.codacy.com/project/gtrevellick/More/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/More&amp;utm_campaign=Badge_Grade_Dashboard)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/More/badge)](https://www.codefactor.io/repository/github/GregTrevellick/More)
-[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/More/depshield.svg)](https://depshield.github.io)
 
 
 
